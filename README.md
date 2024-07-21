@@ -1,4 +1,4 @@
-# python_api_challenge
+# python_api_Weather
 weather and Vacation API
 ## Part 1: WeatherPy OpenWeatherMap API
 In this deliverable, We need to create a Python script to visualize the weather of over 500 cities of varying distances from the equator using the citipy Python library Links to an external site., the OpenWeatherMap API Links to an external site., and using our problem-solving skills to create a representative model of weather across cities.
